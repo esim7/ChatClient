@@ -1,0 +1,17 @@
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\bin\Debug\Domain.dll
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\bin\Debug\Domain.pdb
+C:\Users\МакишевЕ\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
